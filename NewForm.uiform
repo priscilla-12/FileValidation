@@ -1,0 +1,21 @@
+﻿{
+  "Metadata": {
+    "Id": "836e48d1-eddc-4fc0-8a1e-6b551e62e37f",
+    "Kind": "FormIo"
+  },
+  "DesignProperties": {
+    "Title": "NewForm"
+  },
+  "Data": {
+    "components": [
+      {
+        "type": "button",
+        "label": "Submit",
+        "key": "submit",
+        "disableOnInvalid": true,
+        "input": true,
+        "tableView": false
+      }
+    ]
+  }
+}
